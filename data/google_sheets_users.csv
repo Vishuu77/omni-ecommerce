@@ -1,0 +1,4 @@
+"Phone","Name","Email","Address","City","Pincode","Role","RegisteredAt","LastLoginAt"
+"6361222162","Vishnu (Demo Customer)","vishnu@example.com","#42, 4th Cross, 100 Feet Road, Indiranagar","Bengaluru","560038","Customer","2026-10-01 10:00:00","2026-10-06 10:36:00"
+"9876543210","Priya Sharma","priya.sharma@example.com","Flat 204, Green Heights, Powai","Mumbai","400076","Customer","2026-10-02 11:30:00","2026-10-05 14:20:00"
+"9123456789","Employee Administrator","admin@omnicommerce.internal","Corporate HQ, Outer Ring Road","Bengaluru","560103","Employee_Admin","2026-09-01 09:00:00","2026-10-06 10:32:13"
